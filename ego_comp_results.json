@@ -1,0 +1,47 @@
+[
+  {
+    "clip": "seq_0000001.avi",
+    "ego_on": {
+      "id_switches": 0,
+      "total_ids": 3,
+      "frames": 9,
+      "avg_fps": 0.7578504719926437
+    },
+    "ego_off": {
+      "id_switches": 0,
+      "total_ids": 3,
+      "frames": 9,
+      "avg_fps": 0.8090821303047023
+    }
+  },
+  {
+    "clip": "seq_0000026.avi",
+    "ego_on": {
+      "id_switches": 0,
+      "total_ids": 1,
+      "frames": 11,
+      "avg_fps": 0.9854075298860342
+    },
+    "ego_off": {
+      "id_switches": 0,
+      "total_ids": 1,
+      "frames": 11,
+      "avg_fps": 0.922057954896678
+    }
+  },
+  {
+    "clip": "seq_0000069.avi",
+    "ego_on": {
+      "id_switches": 0,
+      "total_ids": 25,
+      "frames": 7,
+      "avg_fps": 0.9194048645029725
+    },
+    "ego_off": {
+      "id_switches": 0,
+      "total_ids": 26,
+      "frames": 7,
+      "avg_fps": 0.8693069522349425
+    }
+  }
+]
