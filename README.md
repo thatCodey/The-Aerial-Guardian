@@ -8,7 +8,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/thatCodey/cnn-anomaly-accelerator.git
+git clone https://github.com/thatCodey/The-Aerial-Guardian.git
 cd aerial-guardian
 pip install -r requirements.txt
 
