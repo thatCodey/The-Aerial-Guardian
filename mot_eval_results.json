@@ -1,0 +1,22 @@
+{
+  "uav0000305_00000_v": {
+    "gt_tracks": 6,
+    "id_switches_on": 1,
+    "id_switches_off": 1
+  },
+  "uav0000137_00458_v": {
+    "gt_tracks": 81,
+    "id_switches_on": 228,
+    "id_switches_off": "N/A"
+  },
+  "uav0000086_00000_v": {
+    "gt_tracks": 79,
+    "id_switches_on": 194,
+    "id_switches_off": 198
+  },
+  "uav0000268_05773_v": {
+    "gt_tracks": 6,
+    "id_switches_on": "N/A",
+    "id_switches_off": "N/A"
+  }
+}
